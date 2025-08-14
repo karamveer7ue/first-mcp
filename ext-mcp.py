@@ -1,9 +1,6 @@
 # MCP Server with Groq API (via openai API) tool
-
 # pip install fastmcp
-
 import os
-#import "/Users/admin/miniconda3/lib/python3.12/site-packages/openai/__init__.py" as openai
 import openai
 
 from mcp.server.fastmcp import FastMCP
