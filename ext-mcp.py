@@ -1,3 +1,5 @@
+# MCP Server with Groq API (via openai API) tool
+
 # pip install fastmcp
 
 import os
