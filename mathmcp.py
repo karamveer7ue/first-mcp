@@ -1,6 +1,5 @@
 # pip install fastmcp
 
-
 from mcp.server.fastmcp import FastMCP
 import math
 
